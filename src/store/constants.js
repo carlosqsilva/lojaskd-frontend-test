@@ -1,3 +1,2 @@
-export const SET_VIEW_GRID = "SET_VIEW_GRID"
-export const SET_VIEW_LIST = "SET_VIEW_LIST"
-export const SET_VIEW_BLOCK = "SET_VIEW_BLOCK"
+export const SET_VIEW = "SET_VIEW"
+export const ADD_WISH = "ADD_WISH"
